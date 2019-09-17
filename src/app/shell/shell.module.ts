@@ -6,6 +6,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { ShellComponent } from './shell.component';
 import { HeaderComponent } from './header/header.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
+import { BodyComponent } from './body/body.component';
 
 @NgModule({
   imports: [
@@ -16,6 +18,8 @@ import { HeaderComponent } from './header/header.component';
   ],
   declarations: [
     HeaderComponent,
+    SidebarComponent,
+    BodyComponent,
     ShellComponent
   ]
 })

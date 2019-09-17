@@ -1,8 +1,9 @@
 {
-  "APP_NAME": "ngX-Rocket",
+  "APP_NAME": "Schedula",
   "About": "About",
   "Hello world !": "Hello world !",
   "Home": "Home",
+  "Session": "Session",
   "Logged in as": "Logged in as",
   "Login": "Login",
   "Logout": "Logout",
